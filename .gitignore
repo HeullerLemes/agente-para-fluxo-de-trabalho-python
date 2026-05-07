@@ -1,0 +1,17 @@
+# Virtual environments
+.lab-dio/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code (optional)
+.vscode/
+
+# OS files
+.DS_Store
+
+# Session db
+session.db
